@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Call Recorder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a nulla non purus pharetra rhoncus.
+        Phasellus fringilla consectetur pharetra. Nullam lacus velit,
+        imperdiet vel odio sed, pretium porttitor nibh. Nam vel eleifend purus, eu luctus ligula.
+        Mauris eu diam diam. Sed nulla ligula, porttitor ac velit in, interdum lobortis neque.
+        Aliquam hendrerit justo massa, sit amet pellentesque velit volutpat a.
+        Maecenas at dapibus massa. Nam in efficitur elit,
+        sed interdum enim. Nullam lorem quam, mollis quis velit ac, lacinia pulvinar felis.
+    </string>
+    <string name="search">Search</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Speaker Mic</item>
+        <item>Mic</item>
+        <item>Voice Commmunication</item>
+        <item>Voice Recogintion</item>
+        <item>Voice Call</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string name="search_hint">enter number or name</string>
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_navigation">navigation</string>
+
+    <string name="navigation_drawer_open">Open Menu drawer</string>
+    <string name="navigation_drawer_close">Close Menu drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="recoring_issue">Please remove any other call recording apps and apply setting from the setting option.Apply setting to change various audio source.
+    If default option does not work choose speaker option which gaurentees your call record.</string>
+    <string name="issue_2">Some phones don\'t support call recording regardless the setting you apply.But you can still choose speaker with mic option to record call.</string>
+</resources>
